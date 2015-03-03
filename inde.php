@@ -7,3 +7,4 @@
  */
 
 echo "new project";
+echo "A new line to this file is here now whttever";
